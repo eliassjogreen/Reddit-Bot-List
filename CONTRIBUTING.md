@@ -3,7 +3,7 @@
 ## Rules:
 * The pull request needs to have a useful title and will otherwise be rejected. For example pull requests with the title ``` Update readme.md ``` or ``` Added a few bots ```
 * Do not remove anything if you do not have a good reasoning for it
-* All links are in ``` []() ``` forma
+* All links are in ``` []() ``` format
 * If a change is needed be clear with what is being changed
 * If the bot is subreddit specific link all subreddits, if not write "Any"
 * If the bot's trigger is a mention write that, if not write the trigger words
