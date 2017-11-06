@@ -10,5 +10,8 @@
 * The bot's trigger words are always surrounded by triple backtick's (\`\`\`) to create a code block surrounding the word
 * The trigger words are separated by each code block
 * If the bot's trigger word(s) are case sensetive surround it with double qoutes
+* The bot should be at the bottom of where the other bots of the same subreddit are
+* If the bot's subreddit isn't alredy on the list add it at the bottom of the list
+* Remember to always double check everything in your pull request!
 
 # By submitting a pull request you confirm you have read this and follow the rules
