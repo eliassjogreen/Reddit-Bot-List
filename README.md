@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="/bot_snoo.png" width="150" alt="Reddit bot list"/>
+  <br>
+  <br>
+  <a href="/CONTRIBUTING.md">Contribution guide</a>
+  <h1 align="center">Reddit Bot List</h1>
+</p>
+
 # Reddit Bot List
 🤖 A list of Reddit bots
 
@@ -9,17 +17,17 @@
 
 ## Image/GIF/Video Manipulation
 
-- [u/stabbot](Bots/stabbot.md)  [![Link to User][extlink]](http://reddit.com/u/stabbot)- A Reddit bot that stabilizes videos
-- [u/stabbot_crop](Bots/stabbot_crop.md) [![Link to User][extlink]](http://reddit.com/u/stabbot_crop) - A Reddit bot that stabilizes videos, also crops it 
-- [u/DeepFryBot](Bots/DeepFryBot.md) [![Link to User][extlink]](http://reddit.com/u/DeepFryBot) - Deep fries images
+- [/u/stabbot](Bots/stabbot.md)  [![Link to User][extlink]](http://reddit.com/u/stabbot)- A Reddit bot that stabilizes videos
+- [/u/stabbot_crop](Bots/stabbot_crop.md) [![Link to User][extlink]](http://reddit.com/u/stabbot_crop) - A Reddit bot that stabilizes videos, also crops it 
+- [/u/DeepFryBot](Bots/DeepFryBot.md) [![Link to User][extlink]](http://reddit.com/u/DeepFryBot) - Deep fries images
 - [/u/gifreversingbot](Bots/gifreversingbot.md) [![Link to User][extlink]](http://reddit.com/u/gifreversingbot) - Reverses a gif in a comment or post
 
 ## Joke Response
 
-- [u/WololoBot](Bots/WololoBot.md) [![Link to User][extlink]](http://reddit.com/u/WololoBot) - Responds with a link to [wololobot.herokuapp.com](https://wololobot.herokuapp.com)
+- [/u/WololoBot](Bots/WololoBot.md) [![Link to User][extlink]](http://reddit.com/u/WololoBot) - Responds with a link to [wololobot.herokuapp.com](https://wololobot.herokuapp.com)
 
 ## Utility
 
-- [u/RemindMeBot](Bots/RemindMeBot.md) [![Link to User][extlink]](http://reddit.com/u/RemindMeBot) - Remind a user about a comment or thread for later use
+- [/u/RemindMeBot](Bots/RemindMeBot.md) [![Link to User][extlink]](http://reddit.com/u/RemindMeBot) - Remind a user about a comment or thread for later use
 
 [extlink]: reddit_icon.png "Link to User"
