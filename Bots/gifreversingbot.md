@@ -1,10 +1,10 @@
-### /u/GifReversingBot
+## /u/GifReversingBot
 
 Reverses a gif in a comment or post
 
 ---
 
-#### Description
+### Description
 
 GifReversingBot reverses gifs in the parent post or comment of it's summon. It can reverse gifs 
 hosted on Imgur, Reddit, and Gfycat.
@@ -13,7 +13,7 @@ hosted on Imgur, Reddit, and Gfycat.
 
 Any
 
-#### Summoning
+### Summoning
 
 Reply to a post or comment with the username
 
