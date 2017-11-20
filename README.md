@@ -1,12 +1,25 @@
 # Reddit Bot List
 🤖 A list of Reddit bots
 
+## Contents
 
+- [Image/GIF/Video manipulation](#imagegifvideo-manipulation)
+- [Joke Response](#joke-response)
+- [Utility](#utility)
 
-| Username | Subreddit(s) | Function | Trigger |
-|-|-|-|-|
-| [u/stabbot](https://reddit.com/u/stabbot) | Any | A Reddit bot that stabilizes videos | Mention |
-| [u/stabbot_crop](https://reddit.com/u/stabbot_crop) | Any | A Reddit bot that stabilizes videos, also crops it | Mention |
-| [u/DeepFryBot](https://reddit.com/u/DeepFryBot) | Any if mentioned otherwise [r/comedycemetery](https://reddit.com/r/comedycemetery), [r/memes](https://reddit.com/r/memes), [r/DeepFriedMemes](https://reddit.com/r/DeepFriedMemes), [r/nukedmemes](https://reddit.com/r/nukedmemes), [r/ComedyNecrophilia](https://reddit.com/r/ComedyNecrophilia) and [r/dankmemes](https://reddit.com/r/dankmemes) | Deep fries images | Mention, ``` morefrying ``` or ``` morenuking ```|
-|[u/RemindMeBot](https://reddit.com/u/RemindMeBot)| Any | Remind a user about a comment or thread for later use | ``` !remindme ``` or ``` remindme! ``` |
-| [u/WololoBot](https://reddit.com/u/WololoBot) | [r/aoe2](https://reddit.com/r/aoe2/) | Responds with a link to [wololobot.herokuapp.com](https://wololobot.herokuapp.com) | ``` wololo ``` |
+## Image/GIF/Video Manipulation
+
+- [u/stabbot](Bots/stabbot.md)  [![Link to User][extlink]](http://reddit.com/u/stabbot)- A Reddit bot that stabilizes videos
+- [u/stabbot_crop](Bots/stabbot_crop.md) [![Link to User][extlink]](http://reddit.com/u/stabbot_crop) - A Reddit bot that stabilizes videos, also crops it 
+- [u/DeepFryBot](Bots/DeepFryBot.md) [![Link to User][extlink]](http://reddit.com/u/DeepFryBot) - Deep fries images
+- [/u/gifreversingbot](Bots/gifreversingbot.md) [![Link to User][extlink]](http://reddit.com/u/gifreversingbot) - Reverses a gif in a comment or post
+
+## Joke Response
+
+- [u/WololoBot](Bots/WololoBot.md) [![Link to User][extlink]](http://reddit.com/u/WololoBot) - Responds with a link to [wololobot.herokuapp.com](https://wololobot.herokuapp.com)
+
+## Utility
+
+- [u/RemindMeBot](Bots/RemindMeBot.md) [![Link to User][extlink]](http://reddit.com/u/RemindMeBot) - Remind a user about a comment or thread for later use
+
+[extlink]: reddit_icon.png "Link to User"
