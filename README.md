@@ -22,4 +22,4 @@
 
 - [u/RemindMeBot](Bots/RemindMeBot.md) [![Link to User][extlink]](http://reddit.com/u/RemindMeBot) - Remind a user about a comment or thread for later use
 
-[extlink]: reddiat_icon.png "Link to User"
+[extlink]: reddit_icon.png "Link to User"
