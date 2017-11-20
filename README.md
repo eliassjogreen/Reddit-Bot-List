@@ -3,9 +3,9 @@
 
 ## Contents
 
-- [Image/GIF/Video manipulation](#Image/GIF/Video-manipulation)
-- [Joke Response](#Joke-Response)
-- [Utility](#Utility)
+- [Image/GIF/Video manipulation](#image/gif/video-manipulation)
+- [Joke Response](#joke-response)
+- [Utility](#utility)
 
 ## Image/GIF/Video manipulation
 
