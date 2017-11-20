@@ -6,7 +6,12 @@ Reverses a gif in a comment or post
 
 #### Description
 
-GifReversingBot can reverse gifs hosted on Imgur, Reddit, and Gfycat.
+GifReversingBot reverses gifs in the parent post or comment of it's summon. It can reverse gifs 
+hosted on Imgur, Reddit, and Gfycat.
+
+### Subreddits
+
+Any
 
 #### Summoning
 

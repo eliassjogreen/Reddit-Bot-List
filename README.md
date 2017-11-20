@@ -13,4 +13,4 @@
 | [/u/gifreversingbot](Bots/gifreversingbot.md) [![Link to User][extlink]](http://reddit.com/u/gifreversingbot) | Reverses a gif in a comment or post |
 
 
-[extlink]: reddit_icon.png "Link to User"
+[extlink]: redddit_icon.png "Link to User"
