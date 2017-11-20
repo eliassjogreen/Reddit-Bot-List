@@ -2,13 +2,13 @@
   <img src="/bot_snoo.png" width="150" alt="Reddit bot list"/>
   <br>
   <br>
-  <a href="/CONTRIBUTING.md">Contribution guide</a>
-  <h1 align="center">Reddit Bot List</h1>
 </p>
-
-# Reddit Bot List
-🤖 A list of Reddit bots
-
+<p align="center">🤖 A list of Reddit bots</p>
+<p align="center">
+  <a href="/CONTRIBUTING.md">Contribution guide</a>
+</p>
+<h1 align="center">Reddit Bot List</h1>
+  
 ## Contents
 
 - [Image/GIF/Video manipulation](#imagegifvideo-manipulation)
