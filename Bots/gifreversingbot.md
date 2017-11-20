@@ -4,7 +4,7 @@ Reverses a gif in a comment or post
 
 ---
 
-#### More Info
+#### Description
 
 GifReversingBot can reverse gifs hosted on Imgur, Reddit, and Gfycat.
 
