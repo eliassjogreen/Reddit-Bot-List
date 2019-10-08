@@ -29,6 +29,8 @@
 
 ## Utility
 
+- [/u/tippr](Bots/tippr.md) [![Link to User][extlink]](http://reddit.com/u/tippr) - A Bitcoin Cash tipbot that allows you to reward good content
+
 - [/u/RemindMeBot](Bots/RemindMeBot.md) [![Link to User][extlink]](http://reddit.com/u/RemindMeBot) - Remind a user about a comment or thread for later use
 
 [extlink]: reddit_icon.png "Link to User"
