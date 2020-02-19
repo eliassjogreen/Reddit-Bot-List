@@ -19,4 +19,5 @@ the link in the comment itself.
 #### Links
 Bot account - [/u/vredditshare](https://reddit.com/u/vredditshare)  
 Creator - [/u/pmdevita](https://reddit.com/u/pmdevita)  
-[Official How To](https://www.reddit.com/user/vredditshare/comments/aebs0r/how_to_use_vredditshare/)
+[Official Info](https://www.reddit.com/user/vredditshare/comments/aebs0r/how_to_use_vredditshare/)  
+[GitHub](https://github.com/pmdevita/vredditshare)
