@@ -21,8 +21,8 @@
 - [/u/stabbot_crop](Bots/stabbot_crop.md) [![Link to User][extlink]](http://reddit.com/u/stabbot_crop) - A Reddit bot that stabilizes videos, also crops it 
 - [/u/DeepFryBot](Bots/DeepFryBot.md) [![Link to User][extlink]](http://reddit.com/u/DeepFryBot) - Deep fries images
 - [/u/gifreversingbot](Bots/gifreversingbot.md) [![Link to User][extlink]](http://reddit.com/u/gifreversingbot) - Reverses a gif in a comment or post
-- [/u/vredditshare](Bots/gifreversingbot.md) [![Link to User][extlink]](http://reddit.com/u/vredditshare) - Reuploads Reddit hosted video
-- [/u/VredditDownloader](Bots/gifreversingbot.md) [![Link to User][extlink]](http://reddit.com/u/VredditDownloader) - Provides downloadable links for videos hosted on Reddit
+- [/u/vredditshare](Bots/vredditshare.md) [![Link to User][extlink]](http://reddit.com/u/vredditshare) - Reuploads Reddit hosted video
+- [/u/VredditDownloader](Bots/VredditDownloader.md) [![Link to User][extlink]](http://reddit.com/u/VredditDownloader) - Provides downloadable links for videos hosted on Reddit
 - [/u/morejpeg_auto](Bots/morejpeg_auto.md) [![Link to User][extlink]](http://reddit.com/u/morejpeg_auto) - Adds jpeg compression to an image
 
 ## Joke Response
