@@ -17,6 +17,6 @@ You can summon it in a reply to a post with Reddit video, as a reply to a commen
 the link in the comment itself.
 
 #### Links
-[/u/Bot_Name](https://reddit.com/u/vredditshare)
-[/u/Creator_Name](https://reddit.com/u/pmdevita)
+[/u/Bot_Name](https://reddit.com/u/vredditshare)  
+[/u/Creator_Name](https://reddit.com/u/pmdevita)  
 [Official How To](https://www.reddit.com/user/vredditshare/comments/aebs0r/how_to_use_vredditshare/)
