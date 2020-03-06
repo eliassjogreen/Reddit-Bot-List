@@ -35,4 +35,6 @@
 
 - [/u/RemindMeBot](Bots/RemindMeBot.md) [![Link to User][extlink]](http://reddit.com/u/RemindMeBot) - Remind a user about a comment or thread for later use
 
+- [/u/profanitycounter](Bots/profanitycounter.md) [![Link to User][extlink]](http://reddit.com/u/profanitycounter) - Generate a comprehensive, automatic profanity report for any user, or yourself.
+
 [extlink]: reddit_icon.png "Link to User"
