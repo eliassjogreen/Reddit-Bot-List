@@ -18,8 +18,8 @@ Modifiers:
   [stats]: summons the stat report of the user calling the bot
 
 #### Links
-Bot - [/u/DeepFryBot](https://www.reddit.com/user/profanitycounter)
+Bot - [/u/profanitycounter](https://www.reddit.com/user/profanitycounter)
 
-Creator - [/u/asdvek](https://www.reddit.com/user/Aidgigi)
+Creator - [/u/Aidgigi](https://www.reddit.com/user/Aidgigi)
 
 [Information](https://www.reddit.com/r/profanitycounter/)
