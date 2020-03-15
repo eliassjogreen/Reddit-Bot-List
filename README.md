@@ -8,7 +8,7 @@
   <a href="/CONTRIBUTING.md">Contribution guide</a>
 </p>
 <h1 align="center">Reddit Bot List</h1>
-  
+
 ## Contents
 
 - [Image/GIF/Video manipulation](#imagegifvideo-manipulation)
@@ -18,12 +18,13 @@
 ## Image/GIF/Video Manipulation
 
 - [/u/stabbot](Bots/stabbot.md)  [![Link to User][extlink]](http://reddit.com/u/stabbot)- A Reddit bot that stabilizes videos
-- [/u/stabbot_crop](Bots/stabbot_crop.md) [![Link to User][extlink]](http://reddit.com/u/stabbot_crop) - A Reddit bot that stabilizes videos, also crops it 
+- [/u/stabbot_crop](Bots/stabbot_crop.md) [![Link to User][extlink]](http://reddit.com/u/stabbot_crop) - A Reddit bot that stabilizes videos, also crops it
 - [/u/DeepFryBot](Bots/DeepFryBot.md) [![Link to User][extlink]](http://reddit.com/u/DeepFryBot) - Deep fries images
 - [/u/gifreversingbot](Bots/gifreversingbot.md) [![Link to User][extlink]](http://reddit.com/u/gifreversingbot) - Reverses a gif in a comment or post
 - [/u/vredditshare](Bots/vredditshare.md) [![Link to User][extlink]](http://reddit.com/u/vredditshare) - Reuploads Reddit hosted video
 - [/u/VredditDownloader](Bots/VredditDownloader.md) [![Link to User][extlink]](http://reddit.com/u/VredditDownloader) - Provides downloadable links for videos hosted on Reddit
 - [/u/morejpeg_auto](Bots/morejpeg_auto.md) [![Link to User][extlink]](http://reddit.com/u/morejpeg_auto) - Adds jpeg compression to an image
+- [/u/gifendore](Bots/gifendore.md) [![Link to User][extlink]](http://reddit.com/u/gifendore) - Extracts the last frame of a gif
 
 ## Joke Response
 
