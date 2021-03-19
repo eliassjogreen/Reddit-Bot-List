@@ -25,6 +25,7 @@
 - [/u/VredditDownloader](Bots/VredditDownloader.md) [![Link to User][extlink]](http://reddit.com/u/VredditDownloader) - Provides downloadable links for videos hosted on Reddit
 - [/u/morejpeg_auto](Bots/morejpeg_auto.md) [![Link to User][extlink]](http://reddit.com/u/morejpeg_auto) - Adds jpeg compression to an image
 - [/u/gifendore](Bots/gifendore.md) [![Link to User][extlink]](http://reddit.com/u/gifendore) - Extracts the last frame of a gif
+- [/u/r2tg_bot](Bots/r2tg_bot.md) [![Link to User][extlink]](http://reddit.com/u/r2tg_bot) - Uploads Reddit videos to Telegram 
 
 ## Joke Response
 
