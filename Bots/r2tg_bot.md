@@ -14,5 +14,7 @@ You can summon it in reply to a post containing a Reddit hosted video.
 
 #### Links
 [/u/r2tg_bot](https://reddit.com/u/r2tg_bot)
+
 [/u/beucismis](https://reddit.com/u/beucismis)
+
 [GitHub](https://github.com/beucismis/r2tg_bot)
