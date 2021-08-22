@@ -38,5 +38,8 @@
 - [/u/RemindMeBot](Bots/RemindMeBot.md) [![Link to User][extlink]](http://reddit.com/u/RemindMeBot) - Remind a user about a comment or thread for later use
 
 - [/u/profanitycounter](Bots/profanitycounter.md) [![Link to User][extlink]](http://reddit.com/u/profanitycounter) - Generate a comprehensive, automatic profanity report for any user, or yourself.
+- [/u/Eminem_Bot](Bots/Eminem_Bot.MD) [![Link to User][extlink]](http://reddit.com/u/Eminem_Bot) - Replies with the youtube and spotify links and statistics for any Eminem song/album.
+
+
 
 [extlink]: reddit_icon.png "Link to User"
